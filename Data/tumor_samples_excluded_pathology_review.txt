@@ -1,0 +1,178 @@
+patient_barcode	sample_barcode	acronym	diagnosis	AWG_excluded_because_of_pathology	AWG_pathology_exclusion_reason
+TCGA-BT-A20V	TCGA-BT-A20V-01A	BLCA	NOS	1.0	Questionable squamous, HPV associated (no feedback from TSS), per path report --> bladder tumor but also extensive involvement of ectocervix, endocervix, endometrium and myometrium. Seriously consider cervical primary
+TCGA-BT-A20X	TCGA-BT-A20X-01A	BLCA	NOS w/divergent differentiation	1.0	>50 squamous in 3 reviews
+TCGA-BT-A2LA	TCGA-BT-A2LA-01A	BLCA	NOS	1.0	extensive small cell/neuroendocrine (per review and per report)
+TCGA-C4-A0EZ	TCGA-C4-A0EZ-01A	BLCA	NOS	1.0	extensive small cell/neuroendocrine (per review and per report)
+TCGA-FD-A3B4	TCGA-FD-A3B4-01A	BLCA	NOS w/divergent differentiation	1.0	>50 squamous in 3 reviews, HPV associated
+TCGA-FD-A3N6	TCGA-FD-A3N6-01A	BLCA	NOS w/divergent differentiation	1.0	>50 squamous in 3 reviews, HPV associated
+TCGA-G2-A2EL	TCGA-G2-A2EL-01A	BLCA	NOS	1.0	extensive small cell/neuroendocrine (per review and per report)
+TCGA-BC-A10Q	TCGA-BC-A10Q-01A-1	CHOL	NOS	1.0	Unlikely to be HCC; probably cholangioCA 
+TCGA-BC-A10Q	TCGA-BC-A10Q-01A	LIHC	No specific subtype	1.0	Unlikely to be HCC; probably cholangioCA 
+TCGA-FV-A3I0	TCGA-FV-A3I0-01A-1	CHOL	Ductal plate malformation predominate pattern	1.0	CholangioCA
+TCGA-FV-A3I0	TCGA-FV-A3I0-01A	LIHC	No specific subtype	1.0	CholangioCA
+TCGA-UB-A7MA	TCGA-UB-A7MA-01A-1	CHOL	Mixed HCC/Cholangiocarcinoma, Classical type	1.0	Biphenotypic
+TCGA-UB-A7MA	TCGA-UB-A7MA-01A	LIHC	Biphenotypic hepatocellular carcinoma (combined hepatocellular and cholangiocarcinoma)	1.0	Biphenotypic
+TCGA-KR-A7K2	TCGA-KR-A7K2-01A	CHOL	Mixed HCC/Cholangiocarcinoma, Classical type	1.0	Mixed HCC/cholangioCA
+TCGA-KR-A7K2	TCGA-KR-A7K2-01A-FROZEN	LIHC	No specific subtype	1.0	Mixed HCC/cholangioCA
+TCGA-3X-AAVC	TCGA-3X-AAVC-01A	CHOL	Cholangiocarcinoma--other subtypes	1.0	Gall bladder carcinoma
+TCGA-A4-7287		KIRP	Urothelial Cancer	1.0	Urothelial Cancer
+TCGA-A4-7828		KIRP	Non-papillary-other	1.0	Not Pap. - Possibly Clear Cell RCC
+TCGA-AL-3467		KIRP	Non-papillary-other	1.0	Not Pap. - Metanephric Tumor
+TCGA-B3-4104		KIRP	Urothelial Cancer	1.0	Urothelial Cancer 
+TCGA-HE-7130		KIRP	Urothelial Cancer	1.0	Urothelial Cancer 
+TCGA-HE-A5NK		KIRP	Non-papillary-other	1.0	Not Pap. - Mucinous tubule and spindle
+TCGA-DD-A3A6	TCGA-DD-A3A6-01A	LIHC	No specific subtype	1.0	Angiomyolipoma 
+TCGA-GJ-A6C0	TCGA-GJ-A6C0-01A	LIHC	No specific subtype	1.0	Unlikely HCC
+TCGA-38-4630		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-44-3918		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-44-5644		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-44-6778		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-44-7660		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-44-7667		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-44-7669		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-55-5899		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-55-6968		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-55-7910		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-55-7994		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-55-7995		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-69-7973		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-86-7701		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-91-6831		LUAD	NSCLC, favor LCNEC; to be excluded	1.0	NSCLC, favor LCNEC; to be excluded
+TCGA-05-4250		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-05-4397		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-05-4427		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-05-4434		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-35-4122		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-35-4123		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-35-5375		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-38-4625		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-38-4629		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-44-2668		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-44-3398		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-44-5643		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-44-7661		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-49-6743		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-50-5066		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-50-6590		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-50-6591		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-50-6592		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-50-6594		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-53-7624		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-55-6969		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-55-6987		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-55-7570		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-64-5779		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-64-5815		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-69-7974		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-69-7978		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-69-7979		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-75-5125		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-78-7146		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-78-7220		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-80-5611		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-86-7711		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-86-7953		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-86-7954		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-86-7955		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-91-6830		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-91-6836		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-91-6848		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-95-7944		LUAD	NSCLC, NOS - to be excluded	1.0	NSCLC, NOS - to be excluded
+TCGA-2J-AABP	TCGA-2J-AABP-01	PAAD	Undifferentiated	1.0	Undifferentiated
+TCGA-2L-AAQM	TCGA-2L-AAQM-01	PAAD	Other	1.0	Neuroendocrine
+TCGA-3A-A9IJ	TCGA-3A-A9IJ-01	PAAD	Other	1.0	Neuroendocrine
+TCGA-3A-A9IL	TCGA-3A-A9IL-01	PAAD	Other	1.0	neuroendocrine
+TCGA-3A-A9IN	TCGA-3A-A9IN-01	PAAD	Other	1.0	Neuroendocrine
+TCGA-3A-A9IO	TCGA-3A-A9IO-01	PAAD	Other	1.0	neuroendocrine
+TCGA-3A-A9IR	TCGA-3A-A9IR-01	PAAD	Other	1.0	neuroendocrine
+TCGA-3A-A9IS	TCGA-3A-A9IS-01	PAAD	Other	1.0	Neuroendocrine
+TCGA-3A-A9IV	TCGA-3A-A9IV-01	PAAD	Other	1.0	Neuroendocrine
+TCGA-F2-6880	TCGA-F2-6880-01	PAAD	Ductal adenocarcinoma	1.0	<1% neoplastic cellularity
+TCGA-F2-7273	TCGA-F2-7273-01	PAAD	Ductal adenocarcinoma	1.0	<1% neoplastic cellularity
+TCGA-F2-7276	TCGA-F2-7276-01	PAAD	Ductal adenocarcinoma	1.0	<1% neoplastic cellularity
+TCGA-FB-A7DR	TCGA-FB-A7DR-01	PAAD	Ductal adenocarcinoma	1.0	Did not arise from pancreas
+TCGA-FB-AAPP	TCGA-FB-AAPP-01	PAAD	Other	1.0	IPMN
+TCGA-H8-A6C1	TCGA-H8-A6C1-01	PAAD	Ductal adenocarcinoma	1.0	<1% neoplastic cellularity
+TCGA-HV-A7OP	TCGA-HV-A7OP-01	PAAD	Ductal adenocarcinoma	1.0	IPMN
+TCGA-HZ-7289	TCGA-HZ-7289-01	PAAD	Ductal adenocarcinoma	1.0	Did not arise from pancreas
+TCGA-HZ-7918	TCGA-HZ-7918-01	PAAD	Ductal adenocarcinoma	1.0	Acinar cell carcinoma
+TCGA-HZ-7920	TCGA-HZ-7920-01	PAAD	Ductal adenocarcinoma	1.0	<1% neoplastic cellularity
+TCGA-HZ-7923	TCGA-HZ-7923-01	PAAD	Ductal adenocarcinoma	1.0	<1% neoplastic cellularity
+TCGA-HZ-7924	TCGA-HZ-7924-01A	PAAD	No tumor present	1.0	<1% neoplastic cellularity
+TCGA-HZ-8638	TCGA-HZ-8638-01	PAAD	Other	1.0	did not arise in pancreas
+TCGA-IB-AAUV	TCGA-IB-AAUV-01	PAAD	Ductal adenocarcinoma	1.0	<1% neoplastic cellularity
+TCGA-IB-AAUW	TCGA-IB-AAUW-01	PAAD	Ductal adenocarcinoma	1.0	<1% neoplastic cellularity
+TCGA-RL-AAAS	TCGA-RL-AAAS-01	PAAD	Ductal adenocarcinoma	1.0	<1 neoplastic cellularity
+TCGA-US-A77J	TCGA-US-A77J-01	PAAD	Ductal adenocarcinoma	1.0	<1% neoplastic cellularity
+TCGA-BR-6709		STAD	Gastric neoplasm - not intestinal or diffuse type adenocarcinoma (i.e., cases that should be EXCLUDED from the TCGA analysis)	1.0	Pathology Review
+TCGA-BR-7704		STAD	Intestinal type gastric adenocarcinoma	1.0	Pathology Review
+TCGA-BR-8060		STAD	Gastric neoplasm - not intestinal or diffuse type adenocarcinoma (i.e., cases that should be EXCLUDED from the TCGA analysis)	1.0	Pathology Review
+TCGA-CD-8533		STAD	Gastric neoplasm - not intestinal or diffuse type adenocarcinoma (i.e., cases that should be EXCLUDED from the TCGA analysis)	1.0	Pathology Review
+TCGA-CG-5725		STAD	no consensus	1.0	Pathology Review
+TCGA-HF-7134		STAD	Intestinal type gastric adenocarcinoma	1.0	Pathology Review
+TCGA-HU-A4GJ		STAD	no consensus	1.0	Pathology Review
+TCGA-HU-A4HB		STAD	Intestinal type gastric adenocarcinoma	1.0	Pathology Review
+TCGA-2H-A9GJ	TCGA-2H-A9GJ-01A	ESCA	Esophageal_Adenocarcinoma-Intestinal type	1.0	Cancer only on FFPE slide.
+TCGA-IG-A4QT	TCGA-IG-A4QT-01A	ESCA	Esophageal-Squamous Cell Carcinoma – standard type	1.0	No cancer in top slide
+TCGA-IG-A7DP	TCGA-IG-A7DP-01A	ESCA	Esophageal_Adenocarcinoma-no consensus	1.0	unclassifiable neoplasm
+TCGA-JY-A6FA	TCGA-JY-A6FA-01A	ESCA	Esophageal-Squamous Cell Carcinoma – standard type	1.0	likely only squamous cell carcinoma in situ
+TCGA-JY-A939	TCGA-JY-A939-01A	ESCA	Esophageal_Adenocarcinoma-no consensus	1.0	no cancer in top slide
+TCGA-L5-A43E	TCGA-L5-A43E-01A	ESCA	Stomach-Intestinal type gastric adenocarcinoma	1.0	no cancer in top slide
+TCGA-L5-A43M	TCGA-L5-A43M-01A	ESCA	Stomach-Intestinal type gastric adenocarcinoma	1.0	 no cancer in top slide
+TCGA-L5-A893	TCGA-L5-A893-01A	ESCA	Esophageal_Adenocarcinoma-no consensus	1.0	unclassifiable neoplasm
+TCGA-R6-A6Y0	TCGA-R6-A6Y0-01A	ESCA	Esophageal_Adenocarcinoma-no consensus	1.0	No definite invasive cancer found
+TCGA-VQ-A8PS	TCGA-VQ-A8PS-01A	STAD	Stomach-Intestinal type gastric adenocarcinoma	1.0	Stock RNA mismatches Tumor DNA
+TCGA-VQ-A8PT	TCGA-VQ-A8PT-01A	STAD	Stomach-Intestinal type gastric adenocarcinoma	1.0	Stock RNA mismatches Tumor DNA
+TCGA-VQ-A8PY	TCGA-VQ-A8PY-01A	STAD	Stomach-Intestinal type gastric adenocarcinoma	1.0	Stock RNA mismatches Tumor DNA
+TCGA-VQ-A8PZ	TCGA-VQ-A8PZ-01A	STAD	Stomach-Diffuse type gastric adenocarcinoma	1.0	Stock RNA mismatches Tumor DNA
+TCGA-VQ-A91E	TCGA-VQ-A91E-01A	STAD	Stomach-Gastric neoplasm â€“ not intestinal or diffuse type adenocarcinoma (i.e., cases that should be EXCLUDED from TCGA analysis)	1.0	Pathology Review
+TCGA-3B-A9HJ		SARC	dedifferentiated liposarcoma + CLL	1.0	CLL
+TCGA-DX-A1L2		SARC	Sarcoma of uncertain type	1.0	Uncertain classification
+TCGA-DX-A23U		SARC	Sarcoma of uncertain type	1.0	sarcoma of uncertain type
+TCGA-DX-A6B8		SARC	Sarcoma of uncertain type	1.0	Sarcoma of uncertain type
+TCGA-DX-A6YZ		SARC	myxofibrosarcoma	1.0	Uncertain diagnosis  (MFS vs DDLPS)
+TCGA-DX-A8BG		SARC	myxofibrosarcoma	1.0	Uncertain diagnosis (MFS vs PLPS)
+TCGA-DX-A8BP		SARC	Likely/possibly melanoma	1.0	not a sarcoma
+TCGA-DX-AATS		SARC	"undifferentiated ""pleomorphic"" sarcoma"	1.0	UPS vs extraskeletal osteosarcoma
+TCGA-DX-AB2J		SARC	Sarcoma of uncertain type	1.0	sarcoma of uncertain type
+TCGA-DX-AB30		SARC	Sarcoma of uncertain type	1.0	Sarcoma of uncertain type
+TCGA-IS-A3K8		SARC	Benign soft tissue tumor	1.0	not a sarcoma
+TCGA-IS-A3KA		SARC	Benign soft tissue tumor	1.0	not a sarcoma of appropriate type
+TCGA-IW-A3M5		SARC	Nondiagnostic material	1.0	NO diagnostic slide - cannot confirm diagnosis
+TCGA-JV-A5VF		SARC	Nondiagnostic material	1.0	NO diagnostic slide - cannot confirm diagnosis
+TCGA-K1-A6RT		SARC	Nondiagnostic material	1.0	NO diagnostic slide - cannot confirm diagnosis
+TCGA-LI-A67I		SARC	Sarcoma of uncertain type	1.0	Sarcoma of uncertain type
+TCGA-MB-A8JL		SARC	NOT A SARCOMA OF APPROPRIATE TYPE	1.0	Need IHC evidence of myogenic differentiaion. Ddx lms vs not a sarcoma of appropriate type - favor not appropriate type
+TCGA-QC-A7B5		SARC	Not a sarcoma of appropriate type	1.0	not a sarcoma of appropriate type
+TCGA-QC-AA9N		SARC	Likely/possibly melanoma	1.0	Not a sarcoma
+TCGA-QQ-A5V2		SARC	Benign soft tissue tumor	1.0	not a sarcoma of appropriate type
+TCGA-QQ-A5VA		SARC	Sarcoma of uncertain type	1.0	Sarcoma of uncertain type, recurrence
+TCGA-QQ-A5VD		SARC	Benign soft tissue tumor	1.0	not a sarcoma (no risk of met)
+TCGA-QQ-A8VD		SARC	Benign soft tissue tumor	1.0	omit from paper not enough cases
+TCGA-QQ-A8VG		SARC	Likely/possibly melanoma	1.0	Not a sarcoma
+TCGA-RN-AAAQ		SARC	Likely/possibly melanoma	1.0	Not a sarcoma
+TCGA-UE-A6QT		SARC	Sarcoma of uncertain type	1.0	Uncertain diagnosis (UPS vs PLPS)
+TCGA-UE-A6QU		SARC	Sarcoma of uncertain type	1.0	Uncertain diagnosis (UPS vs PLPS)
+TCGA-X6-A8C6		SARC	Not a sarcoma of appropriate type	1.0	not a sarcoma of appropriate type
+TCGA-X9-A973		SARC	Sarcoma of uncertain type	1.0	sarcoma of uncertain type
+TCGA-Z4-A8JB		SARC	Benign soft tissue tumor	1.0	omit from paper not enough cases
+TCGA-Z4-A9VC		SARC	Not a sarcoma of appropriate type	1.0	not a sarcoma of appropriate type
+TCGA-EJ-A46B		PRAD		1.0	<10% tumor
+TCGA-EJ-A46E		PRAD		1.0	<10% tumor
+TCGA-EJ-A46H		PRAD		1.0	No tumor on path review
+TCGA-G9-6332		PRAD		1.0	No tumor on path review
+TCGA-H9-A6BX		PRAD		1.0	No tumor on path review
+TCGA-HC-7738		PRAD		1.0	No tumor on path review
+TCGA-HC-7745		PRAD		1.0	Missing slides
+TCGA-HC-7819		PRAD		1.0	No tumor on path review
+TCGA-HC-8259		PRAD		1.0	No tumor on path review
+TCGA-HU-8238		STAD		1.0	Pathology Review
+TCGA-HU-8244		STAD		1.0	Pathology Review
+TCGA-FU-A3HZ		CESC		1.0	Not likely a cervical primary
+TCGA-HC-7817		PRAD		1.0	Missing slides
+TCGA-KK-A8IM		PRAD		1.0	No tumor on path review
+TCGA-V1-A8MK		PRAD		1.0	No tumor on path review
+TCGA-EJ-A8FO		PRAD		1.0	No tumor on path review
+TCGA-EJ-A8FP		PRAD		1.0	No tumor on path review
+TCGA-J4-A83J		PRAD		1.0	No tumor on path review
+TCGA-KK-A8I7		PRAD		1.0	No tumor on path review
