@@ -149,6 +149,7 @@ foreach (ca=1:length(cancers_list)) %dopar% {
   
   # Relief feature selection
   fold_data <- data.frame(cancers_combined, class = as.factor(case_control_class))
+  genes_score <- CORElearn::attrEval("class", fold_data, estimator = "ReliefFequalK", kNearestEqual = floor((dim(fold_data)[1]-1)*0.154))
   # Save scores
   assign(paste0(cancers_list[ca], "_scores_1"), genes_score)
   save(list = noquote(paste0(cancers_list[ca], "_scores_1")),

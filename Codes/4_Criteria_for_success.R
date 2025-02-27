@@ -15,6 +15,7 @@ gs_table <- read_excel("gs_table.xlsx")
 gs_genes <- as.vector(as.matrix(gs_table))
 gs_genes <- na.omit(gs_genes)
 gs_common_genes <- names(which(table(gs_genes)>=2)) # genes that are co-occur at least twice
+gs_uncommon_genes <- names(which(table(gs_genes)==1)) # genes that occur only once
 
 EPIMUTESTR_novel_genes <- setdiff(EPI_finalgenes, gs_common_genes)
 write.table(data.frame(Gene=EPIMUTESTR_novel_genes), "EPIMUTESTR_NovelGenes.tsv", row.names = F, quote = F, sep = "\t")
